@@ -17,11 +17,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "GlaceYT",
-      password: "glaceyt",
-      host: "193.226.78.187",
-      port:  9372,
-      secure: false
+  "identifier": "Public Lavalink v4",
+  "password": "https://dsc.gg/ajidevserver",
+  "host": "lava-v4.ajieblogs.eu.org",
+  "port": 443,
+  "secure": true
     }
   ]
 }
