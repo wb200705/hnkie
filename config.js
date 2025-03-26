@@ -17,11 +17,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-  "identifier": "Public Lavalink v4",
+  "identifier": "Public Lavalink v4 NonSSL",
   "password": "https://dsc.gg/ajidevserver",
   "host": "lava-v4.ajieblogs.eu.org",
-  "port": 443,
-  "secure": true
+  "port": 80,
+  "secure": false
     }
   ]
 }
